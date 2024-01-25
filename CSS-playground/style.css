@@ -1,0 +1,18 @@
+#box {
+  background-color: rgb(132, 132, 195);
+  /*This is comment */
+}
+
+/* .heading {
+  color: red;
+} */
+
+h1,
+h2,
+h3 {
+  color: green;
+}
+
+button {
+  background-color: gray;
+}

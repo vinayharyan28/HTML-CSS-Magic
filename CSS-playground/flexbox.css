@@ -1,0 +1,43 @@
+body {
+  text-align: center;
+}
+
+div {
+  height: 100px;
+  width: 100px;
+  display: flex;
+  border: 2px solid black;
+  flex-direction: row;
+  /* flex-direction: row-reverse; */
+  /* flex-direction: column; */
+  /* flex-direction: column-reverse; */
+  /* justify-content: flex-end; */
+  /* justify-content: center; */
+  /* justify-content: space-around; */
+  justify-content: space-between;
+}
+
+#container {
+  width: 800px;
+  height: 200px;
+}
+
+#box1 {
+  background-color: rgb(124, 121, 230);
+}
+
+#box2 {
+  background-color: aqua;
+}
+
+#box3 {
+  background-color: rgb(123, 255, 0);
+}
+
+#box4 {
+  background-color: rgb(61, 60, 69);
+}
+
+#box5 {
+  background-color: rgb(174, 227, 90);
+}
